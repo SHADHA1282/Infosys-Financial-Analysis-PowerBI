@@ -17,7 +17,8 @@ Analyze Infosys' financial performance over the last five years to identify reve
 
 ## Dashboard Preview
 
-(Insert Screenshot)
+<img width="1335" height="756" alt="Infosys_Financial_Perfromance_Dashboard" src="https://github.com/user-attachments/assets/ff8eb3e1-be47-495c-be5e-ca9a40e663dd" />
+
 
 ## Key KPIs
 
